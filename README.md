@@ -6,7 +6,7 @@ A  Simple Calculator Web App
 A web app for Simple Calculator
 
 ## Technologies used
-- HTPL
+- HTML
 - CSS3
 - Javascript
 
@@ -20,3 +20,4 @@ A web app for Simple Calculator
 https://github.com/Aqeela66/SimpleCalculator
 
 ### Live Link:
+https://aqeela66.github.io/SimpleCalculator/
